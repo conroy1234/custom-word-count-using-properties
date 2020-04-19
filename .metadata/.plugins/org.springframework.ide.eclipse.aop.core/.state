@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model/>
+<aop-reference-model>
+<aop-project name="demo"/>
+<aop-project name="kafka-reading-twitter-twits-store-in-elastic-search"/>
+<aop-project name="my-inmemory-cash"/>
+<aop-project name="twitter"/>
+<aop-project name="elastic_search"/>
+</aop-reference-model>

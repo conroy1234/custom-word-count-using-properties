@@ -27,7 +27,7 @@ public class WordCountController {
 
 	@GetMapping("/word/search/{search}")
 	public List<Word> findWordInList(@RequestHeader(name="Accept-Language",required=false) Locale locale,@PathVariable String search) {			
-		Word word = WordCountConfig.wordContainer(search, new String[] { messageSource.getMessage("word-searchdisplay.message", null,locale) });
+		Word word = WordCountConfig.wordContainer(search, Arrays.asList( messageSource.getMessage("word-searchdisplay.message", null,locale)) );
 		System.out.println(word);
 	System.out.println(word);
 	return Arrays.asList(word);

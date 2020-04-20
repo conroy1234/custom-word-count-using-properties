@@ -21480,3 +21480,173 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Expected ro
 2020-04-19 22:25:00,226 [Worker-453: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2020-04-19 22:25:00,228 [Worker-453: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-19 22:25:00,228 [Worker-453: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:30:17,540 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:30:17,540 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 22:30:17,540 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-19 22:30:17,542 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:30:17,542 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:39:02,755 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:39:02,757 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:39:02,758 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:39:02,760 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:39:02,760 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:40:01,485 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:40:01,487 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:40:01,489 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:40:01,491 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:40:01,491 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:40:22,229 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:40:22,230 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:40:22,232 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:40:22,234 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:40:22,234 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:40:54,147 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:40:54,149 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:40:54,151 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:40:54,153 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:40:54,153 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:41:52,489 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:41:52,491 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:41:52,493 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:41:52,494 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:41:52,494 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:42:19,621 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:42:19,622 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:42:19,624 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:42:19,625 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:42:19,626 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:45:10,174 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:45:10,175 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:45:10,177 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:45:10,178 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:45:10,178 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:57:49,286 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:57:49,287 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:57:49,289 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:57:49,291 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:57:49,291 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:58:03,541 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:58:03,542 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:58:03,544 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:58:03,545 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:58:03,545 [Worker-472: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:58:17,834 [Worker-467: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:58:17,835 [Worker-467: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:58:17,838 [Worker-467: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:58:17,840 [Worker-467: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:58:17,840 [Worker-467: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 22:58:40,252 [Worker-469: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:58:40,253 [Worker-469: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 22:58:40,255 [Worker-469: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 22:58:40,256 [Worker-469: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 22:58:40,257 [Worker-469: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 23:02:00,636 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:02:00,638 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 23:02:00,639 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 23:02:00,641 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:02:00,641 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 23:03:03,292 [Worker-473: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:03:03,294 [Worker-473: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 23:03:03,295 [Worker-473: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 23:03:03,297 [Worker-473: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:03:03,297 [Worker-473: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 23:03:28,149 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:03:28,151 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 23:03:28,153 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 23:03:28,155 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:03:28,155 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 23:04:02,800 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:04:02,802 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 23:04:02,804 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 23:04:02,805 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:04:02,805 [Worker-471: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-19 23:04:13,087 [Worker-478: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:04:13,088 [Worker-478: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-19 23:04:13,091 [Worker-478: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-19 23:04:13,092 [Worker-478: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-19 23:04:13,092 [Worker-478: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:41:11,299 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:41:11,302 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:41:11,304 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:41:11,306 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:41:11,306 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:43:06,370 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:43:06,372 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:43:06,374 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:43:06,375 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:43:06,375 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:43:23,200 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:43:23,202 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:43:23,203 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:43:23,242 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:43:23,243 [Worker-497: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:48:14,360 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:48:14,361 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:48:14,363 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:48:14,365 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:48:14,365 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:48:38,547 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:48:38,548 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:48:38,550 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:48:38,551 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:48:38,552 [Worker-489: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:49:09,818 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:49:09,820 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:49:09,822 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:49:09,823 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:49:09,823 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:50:05,209 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:50:05,210 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:50:05,212 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:50:05,214 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:50:05,214 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:53:34,810 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:53:34,811 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:53:34,813 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:53:34,816 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:53:34,816 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:54:58,121 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:54:58,122 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:54:58,124 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:54:58,125 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:54:58,126 [Worker-501: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:55:42,106 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:55:42,107 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:55:42,109 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:55:42,110 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:55:42,110 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:55:54,127 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:55:54,128 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:55:54,130 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:55:54,131 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:55:54,132 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:56:03,750 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:56:03,751 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:56:03,753 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:56:03,754 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:56:03,754 [Worker-500: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:57:23,930 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:57:23,931 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:57:23,932 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:57:23,934 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:57:23,934 [Worker-486: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 07:58:17,890 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:58:17,892 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 07:58:17,895 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 07:58:17,897 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 07:58:17,897 [Worker-499: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 09:46:40,462 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 09:46:40,464 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 09:46:40,466 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 09:46:40,467 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 09:46:40,467 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 09:47:01,538 [Worker-510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 09:47:01,539 [Worker-510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 09:47:01,541 [Worker-510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 09:47:01,542 [Worker-510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 09:47:01,542 [Worker-510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources
+2020-04-20 09:47:21,243 [Worker-514: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 09:47:21,245 [Worker-514: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-20 09:47:21,246 [Worker-514: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-04-20 09:47:21,248 [Worker-514: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-20 09:47:21,248 [Worker-514: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\flightPnanner\flightPnanner\custom-word-count-using-properties\src\test\resources

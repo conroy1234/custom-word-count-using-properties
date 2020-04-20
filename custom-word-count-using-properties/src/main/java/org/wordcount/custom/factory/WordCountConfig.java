@@ -1,9 +1,14 @@
 package org.wordcount.custom.factory;
 
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 import org.wordcount.custom.model.Word;
 
@@ -68,8 +73,9 @@ public class WordCountConfig {
 	}
 
 	public static void main(String[] args) {
-
-		System.out.println(findCharactor('a', "accountance"));
+		Map<String, Long> collect = countByWordSorted(Arrays.asList("conroy", "conroy", "delroy", "louise", "conroy"));
+			
+		System.out.println(collect);
 
 	}
 
@@ -84,4 +90,18 @@ public class WordCountConfig {
 		return new Word((int) count, word, c);
 	}
 
+	public static LinkedHashMap<String, Long> countByWordSorted(List<String> list) {
+		//collect each words and count them
+		Map<String, Long> collect = list.stream()
+				.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+		
+		//sort the values by number of occurrences
+		LinkedHashMap<String, Long> countByWordSorted = collect.entrySet().stream()
+				.sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+				.collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (v1, v2) -> {
+					throw new IllegalStateException();
+				}, LinkedHashMap::new));
+		
+		return countByWordSorted;
+	}
 }

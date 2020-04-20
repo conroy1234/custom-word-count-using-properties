@@ -24,11 +24,7 @@ public class WordCountConfig {
 
 	}
 
-	private WordCountConfig() {
-
-	}
-
-	public Word wordContainerA(String searchWord, String word) {
+	public Word wordContainerInString(String searchWord, String word) {
 		int count = 0;
 		pattern = Pattern.compile(searchWord);
 		matcheds = pattern.matcher(word);
@@ -39,7 +35,7 @@ public class WordCountConfig {
 		return new Word(count, searchWord);
 	}
 
-	public Word wordContainerB(String word, String[] words) {
+	public Word wordContainerInArray(String word, String[] words) {
 		int count = 0;
 		String search = "";
 
@@ -56,7 +52,7 @@ public class WordCountConfig {
 		return new Word(count, word);
 	}
 
-	public Word wordContainerC(String word, List<String> words) {
+	public Word wordContainerInList(String word, List<String> words) {
 		String search = "";
 		int count = 0;
 		for (String str : words) {
@@ -72,25 +68,19 @@ public class WordCountConfig {
 		return new Word(count, word);
 	}
 
-	public static void main(String[] args) {
-		Map<String, Long> collect = countByWordSorted(Arrays.asList("conroy", "conroy", "delroy", "louise", "conroy"));
-			
-		System.out.println(collect);
 
-	}
-
-	public static Word findword(String word, List<String> list) {
+	public Word findword(String word, List<String> list) {
 		long count = list.stream().filter(n -> n.equalsIgnoreCase(word)).count();
 		return new Word((int) count, word);
 	}
 
-	public static Word findCharactor(char c, String word) {
+	public Word findCharactor(char c, String word) {
 		long count = word.chars().filter(p -> p == c).count();
 
 		return new Word((int) count, word, c);
 	}
 
-	public static LinkedHashMap<String, Long> countByWordSorted(List<String> list) {
+	public  LinkedHashMap<String, Long> countByWordSorted(List<String> list) {
 		//collect each words and count them
 		Map<String, Long> collect = list.stream()
 				.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));

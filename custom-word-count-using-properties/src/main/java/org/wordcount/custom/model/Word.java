@@ -26,12 +26,12 @@ public class Word {
 		this.count = count;
 	}
 
-	public String getActualWord() {
+	public String getWord() {
 		return word;
 	}
 
-	public void setActualWord(String actualWord) {
-		this.word = actualWord;
+	public void setWord(String word) {
+		this.word = word;
 	}
 
 	public char getC() {
@@ -46,5 +46,6 @@ public class Word {
 	public String toString() {
 		return "Word [count=" + count + ", word=" + word + ", c=" + c + "]";
 	}
+
 
 }

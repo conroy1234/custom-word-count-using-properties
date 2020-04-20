@@ -12,7 +12,18 @@ public class WordCountConfig {
 	private static Pattern pattern;
 	private static Matcher matcheds;
 
-	public static Word wordContainer(String searchWord, String word) {
+	private static WordCountConfig instance = new WordCountConfig();
+
+	public static WordCountConfig newInstance() {
+		return instance;
+
+	}
+
+	private WordCountConfig() {
+
+	}
+
+	public Word wordContainerA(String searchWord, String word) {
 		int count = 0;
 		pattern = Pattern.compile(searchWord);
 		matcheds = pattern.matcher(word);
@@ -23,7 +34,7 @@ public class WordCountConfig {
 		return new Word(count, searchWord);
 	}
 
-	public static Word wordContainer(String word, String[] words) {
+	public Word wordContainerB(String word, String[] words) {
 		int count = 0;
 		String search = "";
 
@@ -40,7 +51,7 @@ public class WordCountConfig {
 		return new Word(count, word);
 	}
 
-	public static Word wordContainer(String word, List<String> words) {
+	public Word wordContainerC(String word, List<String> words) {
 		String search = "";
 		int count = 0;
 		for (String str : words) {
@@ -57,19 +68,20 @@ public class WordCountConfig {
 	}
 
 	public static void main(String[] args) {
-	System.out.println(findword(Arrays.asList("conroy","conroy","timothy"), "conroy"));
-	System.out.println(findCharactor("conroy",'o'));
+
+		System.out.println(findCharactor('a', "accountance"));
 
 	}
 
-	public static String findword(List<String> list, String word) {
-		long count = list.stream().filter(n -> n == word).count();
-		return word+" : "+count;
+	public static Word findword(String word, List<String> list) {
+		long count = list.stream().filter(n -> n.equalsIgnoreCase(word)).count();
+		return new Word((int) count, word);
 	}
 
-	public static String findCharactor(String word, char c) {			
-		long count = word.chars().filter(p -> p==c ).count();		
-		return word+" : "+count;
+	public static Word findCharactor(char c, String word) {
+		long count = word.chars().filter(p -> p == c).count();
+
+		return new Word((int) count, word, c);
 	}
 
 }

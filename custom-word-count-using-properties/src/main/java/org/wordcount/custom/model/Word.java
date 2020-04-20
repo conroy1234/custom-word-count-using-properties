@@ -2,12 +2,21 @@ package org.wordcount.custom.model;
 
 public class Word {
 	private int count;
-	private String actualWord;
+	private String word;
+	private char c;
 
 	public Word(int count, String actualWord) {
 		this.count = count;
-		this.actualWord = actualWord;
+		this.word = actualWord;
 	}
+
+
+	public Word(int count, String word, char c) {	
+		this.count = count;
+		this.word = word;
+		this.c = c;
+	}
+
 
 	public int getCount() {
 		return count;
@@ -18,16 +27,24 @@ public class Word {
 	}
 
 	public String getActualWord() {
-		return actualWord;
+		return word;
 	}
 
 	public void setActualWord(String actualWord) {
-		this.actualWord = actualWord;
+		this.word = actualWord;
+	}
+
+	public char getC() {
+		return c;
+	}
+
+	public void setC(char c) {
+		this.c = c;
 	}
 
 	@Override
 	public String toString() {
-		return "Word [count=" + count + ", actualWord=" + actualWord + "]";
+		return "Word [count=" + count + ", word=" + word + ", c=" + c + "]";
 	}
 
 }
